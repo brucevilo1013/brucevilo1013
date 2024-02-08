@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I have been working as a full stack developer with React.js, React Native, TypeScript, Web3.js, Moralis, smart contract with Solidity, Truffle for 5 years.
+- 🔭 I have been working as a full stack developer with React.js, React Native, TypeScript, Web3.js, Moralis, smart contract with Solidity, Truffle for 6 years.
       I also work with Angular 2+, Vue.js, Three.js, D3.js, Node.js, Express.js, Python, Firebase, AWS, GCP, Azure.
 - 🌱 I’m currently learning Web3, Blockchain, and I am interested in DApp development.
 - 👯 I’m looking to collaborate on global team as a full stack developer.
