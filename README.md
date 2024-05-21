@@ -6,5 +6,4 @@
 - 👯 I’m looking to collaborate on global team as a full stack developer.
 - 🤔 I’m looking for help with improving my full stack development skills.
 - 💬 Ask me about TDD, component driven development, SOLID, KISS principle in SDLC.
-- 📫 How to reach me: brucevilo1013@gmail.com (Skype is same as gmail)
 - ⚡ Fun fact: I am actively looking for remote full time job to boost my carrer as software engineer.
